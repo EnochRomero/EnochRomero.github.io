@@ -1,5 +1,5 @@
 # Enoch Romero
-I'm Encoh Romero, a student at Brigham Young University-Idaho, and I'm interested in technical management. Welcome to my GitHub profile!
+I'm Enoch Romero, a student at Brigham Young University-Idaho, and I'm interested in technical management. Welcome to my GitHub profile!
 
 
 ## About Me
