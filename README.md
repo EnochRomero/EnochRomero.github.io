@@ -1,21 +1,29 @@
-# Encoh Romero
+# Enoch Romero
+I'm Encoh Romero, a student at Brigham Young University-Idaho, and I'm interested in technical management. Welcome to my GitHub profile!
 
-I'm Encoh Romero, a student at Brigham Young University-Idaho, and I'm interested in technical managment. Welcome to my GitHub profile!
 
 ## About Me
-
-- I'm doing a hyprid bachlers degree course in software engeneering and communicaation.
-- I love reading and leaning new skills. 
+- I'm doing a hybrid bachelor's degree course in software engineering and communication.
+- I love reading and learning new skills. 
 - I love writing in python, but C# is starting to grow on me.
 
-## Technologies and Tools
 
+## Personal Projects 
+- 2D 8-bit Platformer made with Godot
+- Turn based combat Game made with Python
+- Personal Webpage
+
+
+## Technologies and Tools
 - Proficient in: Python, C#, SQL, and Excel
-- Skills: Time managment, presentations, and team managment
+- Skills: Time management, presentations, and team management
+
 
 ## Let's Connect!
 
 - Here is my linkedin: www.linkedin.com/in/enoch-romero-tech
 
 
+
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
